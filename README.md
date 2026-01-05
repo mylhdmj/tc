@@ -7,11 +7,11 @@
 
 # 🧾 图床系统Cookie获取说明
 
-🟢️  [获取阿里Cookie](.wiki/Get_AL_Cookie.md)
+🟢️  [获取阿里Cookie](wiki/Get_AL_Cookie.md)
 
-🟢️  [获取百度Cookie](.wiki/Get_BD_Cookie.md)
+🟢️  [获取百度Cookie](wiki/Get_BD_Cookie.md)
 
-🟢️  [获取京东Cookie](.wiki/Get_JD_Cookie.md)
+🟢️  [获取京东Cookie](wiki/Get_JD_Cookie.md)
 
 ## ✨ 说明
 
