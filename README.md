@@ -9,9 +9,11 @@
 
 🟢️  [获取阿里Cookie](wiki/Get_AL_Cookie.md)
 
-🟢️  [获取百度Cookie](wiki/Get_BD_Cookie.md)
+🔴  <del>[获取百度Cookie](wiki/Get_BD_Cookie.md)</del> 此接口已失效
 
 🟢️  [获取京东Cookie](wiki/Get_JD_Cookie.md)
+
+🟢️  [获取美团Cookie](wiki/Get_MT_Cookie.md)
 
 ## ✨ 说明
 
