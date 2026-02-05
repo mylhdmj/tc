@@ -28,3 +28,5 @@
 ## ps：点击Google账号后如果显示需要验证手机号则需要挂美国代理登录。
 
 ![](https://cdn.jsdelivr.net/gh/mylhdmj/tc@refs/heads/main/wiki/image/AL5.png)
+
+## ps2：如果Google账号不行可以尝试Apple ID授权登录。
